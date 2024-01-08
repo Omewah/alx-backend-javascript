@@ -8,4 +8,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 * The Set, Map, and Weak link data structures
 
 ## Author
-- Joel Omewah[https://github.com/Omewah]
+- [Joel Omewah](https://github.com/Omewah)
