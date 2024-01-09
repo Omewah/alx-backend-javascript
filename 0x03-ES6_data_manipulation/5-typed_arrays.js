@@ -8,5 +8,10 @@ export default function createInt8TypedArray(length, position, value) {
   const view = new DataView(buffer);
   view.setInt8(position, value);
 
+  console.log('DataView: ', view);
+
+  console.log('DataView byteLength: ', view.byteLength);
+  console.log('DataView byteOffset: ', view.byteOffset);
+
   return buffer;
 }
